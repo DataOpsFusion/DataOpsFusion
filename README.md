@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/x6qU1kR.png" alt="DataOpsFusion Banner" />
-</p>
+
 
 <div>
 
@@ -49,6 +47,3 @@
 
 ---
 
-<p align="center">
-  <em>Maintained by <a href="https://github.com/DataOpsFusion">DataOpsFusion</a> • Last updated: 2025-08-04</em>
-</p>
