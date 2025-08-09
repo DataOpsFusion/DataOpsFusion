@@ -1,5 +1,3 @@
-
-
 <div>
 
 <img align="right" width="400" alt="Shimarin"
@@ -36,10 +34,10 @@
 <img src="https://img.shields.io/badge/n8n-A838FF?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 <h4>Currently Exploring</h4>
-- LLM orchestration with agents and MCPO
-- Building DevOps pipelines for ML systems
-- Automating infrastructure via Ansible, Terraform, n8n
-- Hybrid inference between edge devices and cloud
+- LLM orchestration with agents and MCPO  
+- Building DevOps pipelines for ML systems  
+- Automating infrastructure via Ansible, Terraform, n8n  
+- Hybrid inference between edge devices and cloud  
 
 <br/><br/>
 
@@ -47,3 +45,11 @@
 
 ---
 
+## 🌐 Check Out My Portfolio
+
+Want to see my work in action?  
+Visit my **live portfolio website** for projects, write-ups, and more:  
+
+🔗 **[dataopsfusion.github.io/portfolio](https://dataopsfusion.github.io/portfolio/)**  
+
+---
